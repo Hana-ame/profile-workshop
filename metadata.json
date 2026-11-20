@@ -1,0 +1,6 @@
+{
+  "name": "型材工坊 — 铝型材结构搭建与力学优化平台",
+  "description": "面向工业铝型材框架的3D参数化画图、三维空间有限元受力分析、截面与拓扑斜撑算法优化及一维下料排版系统。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
